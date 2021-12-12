@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+.d-flex ul li {
+	list-style: none;
+	display: inline;
+	color : white;
+}
+
+.d-flex ul li a {
+	text-decoration: none;
+	color : white;
+}
+
+.d-flex ul li a:hover{
+	color:black;
+}
